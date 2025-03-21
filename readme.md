@@ -18,6 +18,8 @@ The Trading Training Game is an educational tool that simulates real market cond
 
 ## Installation
 
+Get 3 api keys from twelvedata
+
 ```bash
 # Clone the repository
 git clone https://github.com/YoussefBechara/Trading-Training-Game.git
