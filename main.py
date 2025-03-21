@@ -326,9 +326,9 @@ class TradingTrainingGameGUI:
     def get_data(self, ticker="TSLA", period="2y", interval="1day", provider='twelve_data', ticker_type='forex'):
         if provider.lower() == 'twelve_data':
             td_clients = [
-                TDClient(apikey='20021f1d51064e3eb76096951d4a9b31'),
-                TDClient(apikey='691207b901d448c0b3f1a719fd042637'),
-                TDClient(apikey='df1d6e12071f4623b92eb5b43fc9ba6c')
+                TDClient(apikey=''),
+                TDClient(apikey=''),
+                TDClient(apikey='')
             ]
 
             def fetch_data(td, symbol, interval, start_date, end_date):
