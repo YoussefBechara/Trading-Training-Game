@@ -1,6 +1,7 @@
 # Trading Training Game
 
 A simulator designed to help users practice and develop their trading skills in a risk-free environment.
+![Alt text](https://github.com/YoussefBechara/Trading-Training-Game/blob/main/Screenshot%20(10).png?raw=true)
 
 ## Overview
 
@@ -57,13 +58,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
-Youssef Bechara - [@YourTwitter](https://twitter.com/YourTwitterHandle) - youremail@example.com
+Youssef Bechara - youssefbechara.ap@gmail.com
 
 Project Link: [https://github.com/YoussefBechara/Trading-Training-Game](https://github.com/YoussefBechara/Trading-Training-Game)
 
